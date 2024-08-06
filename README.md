@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikshya Acharya</h1>
-<h3 align="center">Excited to explore the world of programming, constantly learning and experimenting with new coding techniques</h3>
+<h3 align="center">Excited to explore the world of programming, constantly learning and experimenting with new coding techniques.</h3>
 <img align="right" alt="coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
